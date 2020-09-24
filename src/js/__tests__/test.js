@@ -1,7 +1,7 @@
 import showHealth from '../index';
 
 const testCharacters = [
-  [{name: 'Маг', health: 30 }, 'wounded'],
+  [{ name: 'Маг', health: 30 }, 'wounded'],
   [{ name: 'Воин', health: 65 }, 'healthy'],
   [{ name: 'Вор', health: 5 }, 'critical'],
 ];
